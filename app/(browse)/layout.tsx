@@ -1,6 +1,6 @@
 import Conatiner from "./_components/container";
 import NavBar from "./_components/navbar";
-import Sidebar from "./_components/sidebar/_component";
+import Sidebar from "./_components/sidebar";
 
 const BrowseLayout = ({ children }: { children: React.ReactNode }) => {
   return (
